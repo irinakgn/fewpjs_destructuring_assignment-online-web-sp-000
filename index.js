@@ -57,8 +57,7 @@ const k_muppet = {
 const { song_2, song_4} = muppet.album.the_muppet_movie;
 console.log(song_2);
 console.log(song_4);
-const { color, k_job, k_partnet}= muppet;
-console.log(color);
+const { k_job, k_partnet}= k_muppet;
 console.log(k_job);
 console.log(k_partner);
 
