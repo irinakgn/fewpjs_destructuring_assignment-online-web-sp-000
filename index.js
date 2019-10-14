@@ -21,8 +21,8 @@ console.log(red, orange, yellow, green, blue, indigo, violet)
 const [r, o, y, g, b, , v] = colors
 console.log(r, o, y, g, b,v)
 
-const [, , , , , ingd, ]= colors
-console.log(ingd)
+const [, , , , , indg, ]= colors
+console.log(indg)
 
 const muppet = {
   name: 'Kermit',
