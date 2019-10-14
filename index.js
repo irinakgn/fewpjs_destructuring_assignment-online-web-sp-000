@@ -32,6 +32,13 @@ const muppet = {
   partner: 'Miss Piggy'
 };
 
+const { name, color, song, job, partner} = muppet;
+console.log(name);
+console.log(color);
+console.log(song);
+console.log(job);
+console.log(partner);   
+
 const k_muppet = {
   k_name: 'Kermit',
   k_color: 'green',
