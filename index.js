@@ -58,7 +58,7 @@ const {
         k_album: {
           the_muppet_movie: { song_2, song_4
           }
-    }, k_color, k_job, k_partnet} = k_muppet;
+    }, k_color, k_job, k_partner} = k_muppet;
 console.log(k_color);
 console.log(song_2);
 console.log(song_4);
