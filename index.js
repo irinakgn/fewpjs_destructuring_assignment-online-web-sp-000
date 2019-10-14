@@ -1,7 +1,7 @@
 const farmAnimals = ['cow', 'horse', 'sheep', 'pig', 'chicken']
 const sounds = ['moo', 'nai', 'ba', 'oink', 'cluck']
-const [moo, neigh, ba, oink, cluck] = farmAnimals
-console.log(moo, neigh, ba, oink, cluck)
+const [moo, neigh, baa, oink, cluck] = farmAnimals
+console.log(moo, neigh, baa, oink, cluck)
 
 
 const [Bessie, , Dolly, Babe, Little] = farmAnimals
