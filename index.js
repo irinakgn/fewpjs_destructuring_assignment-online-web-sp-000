@@ -14,7 +14,7 @@ console.log(black_and_white, black, pink)
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 const [r, o, y, g, b, , v] = colors
-console.log(r, o, y, g, b, , v)
+console.log(r, o, y, g, b,v)
 
 const muppet = {
   name: 'Kermit',
