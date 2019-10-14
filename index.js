@@ -54,11 +54,12 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
-const { song_2, song_4, k_job, k_partner} = muppet.album.the_muppet_movie;
+const { song_2, song_4} = muppet.album.the_muppet_movie;
 console.log(song_2);
 console.log(song_4);
-console.log(k_job);
-console.log(k_partner);
+//const {k_job, k_partnet}= muppet
+//console.log(k_job);
+//console.log(k_partner);
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
