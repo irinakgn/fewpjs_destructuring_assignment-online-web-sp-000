@@ -56,11 +56,12 @@ const k_muppet = {
 
 const {
         k_album: {
-          the_muppet_movie:{
+          the_muppet_movie:{song_2,song_4
           }
     }, k_color, k_job, k_partnet}= k_muppet;
-console.log(color);
+console.log(k_color);
 console.log(song _2);
+console.log(song_4);
 console.log(k_job);
 console.log(k_partner);
 
