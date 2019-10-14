@@ -5,6 +5,9 @@ const [Bessie, , Dolly, Babe, Little] = farmAnimals
 console.log(Bessie, Dolly, Babe, Little)
 
 
+const [black_and_white, , black, pink, ,] = farmAnimals
+console.log(black_and_white, black, pink)
+
 
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
