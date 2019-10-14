@@ -1,4 +1,10 @@
-const farmAnimals = 'cow horse sheep pig chicken'
+const farmAnimals = ['cow', 'horse', 'sheep', 'pig', 'chicken']
+//const = ['moo', 'nai', 'ba', 'oink', 'cluck']
+const [Bessie, , Dolly, Babe, Little] = farmAnimals
+console.log(Bessie, Dolly, Babe, Little)
+
+
+
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
@@ -29,6 +35,8 @@ const k_muppet = {
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
 
+
+
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
 
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of black_and_white, black, and pink.
@@ -39,7 +47,7 @@ const k_muppet = {
 
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
 
-// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
+// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg.
 
 // Objects
 
