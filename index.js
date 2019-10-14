@@ -54,7 +54,7 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
-const { song_2, song_4, k_job, k_partner} = muppet.the_muppet_movie;
+const { song_2, song_4, k_job, k_partner} = muppet.album.the_muppet_movie;
 console.log(song_2);
 console.log(song_4);
 console.log(k_job);
